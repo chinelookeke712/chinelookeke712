@@ -1,12 +1,10 @@
-- 👋 Hi, I’m chinelookeke712
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..Data analytics.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#- 👋 Hi, I’m chinelookeke712
+#- 👀 I’m interested in ...Data analysis and data science
+#- 🌱 I’m currently learning ..Data analytics.
+#- 💞️ I’m looking to collaborate on ...Data analysis and Data science.
+#- 📫 How to reach me ...{linkedin}(www.linkedin.com/in/chinelo-okeke-9a6350342)
+#- 😄 Pronouns: ...She
+#- ⚡ Fun fact: ...I love to explore and learn new things.
 
-<!---
-chinelookeke712/chinelookeke712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
